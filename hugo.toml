@@ -1,0 +1,54 @@
+baseURL = "https://www.fuller-smith.co.uk/"
+languageCode = "en-gb"
+title = "Fuller-Smith — Local AI, Self-Hosted"
+theme = "PaperMod"
+
+# Pagination
+pagination.pagerSize = 10
+
+# Enable Git info (last-modified dates on posts, optional)
+enableGitInfo = true
+
+[params]
+  description = "Self-hosting AI on your own hardware: reviews, guides, and the build log for the Sovereign AI Lab."
+  author = "Daniel"
+  defaultTheme = "auto"        # auto | light | dark
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowToc = true
+  TocOpen = false
+  disableSpecial1stPost = false
+  hidemeta = false
+
+  [params.homeInfoParams]
+    Title = "Fuller-Smith"
+    Content = "Guides and hardware breakdowns for running your own AI, locally. No cloud, no subscriptions, no data leaving your machine."
+
+[[menu.main]]
+  identifier = "posts"
+  name = "Articles"
+  url = "/posts/"
+  weight = 10
+
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+  weight = 20
+
+[markup]
+  [markup.highlight]
+    noClasses = false
+    style = "monokai"
+  [markup.goldmark.renderer]
+    unsafe = true   # allows raw HTML in markdown, e.g. embedded tables/widgets later
+
+[taxonomies]
+  tag = "tags"
+  series = "series"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]   # JSON output enables client-side search later if wanted
