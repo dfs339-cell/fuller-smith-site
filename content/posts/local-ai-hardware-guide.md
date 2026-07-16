@@ -143,7 +143,7 @@ Apple has repeatedly cut memory configurations across the Mac mini and Mac Studi
 | Mac Studio M3 Ultra | 96GB | $3,999–5,499 | ~$42–57 |
 | Jetson Orin Nano Super | 8GB | $249 | ~$31 |
 
-*Prices move fast in this market — treat this table as a mid-2026 snapshot, not a permanent reference. [Update this table each quarter — see the maintenance schedule.]*
+*Prices move fast in this market — treat this table as a mid-2026 snapshot, not a permanent reference.*
 
 The standout on pure $/GB right now is still the used RTX 3090 and the entry-tier Strix Halo mini PC — both, for different reasons, comparatively insulated from the worst of the 2026 shortage.
 
