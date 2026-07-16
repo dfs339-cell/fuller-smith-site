@@ -1,6 +1,6 @@
 baseURL = "https://www.fuller-smith.co.uk/"
 languageCode = "en-gb"
-title = "Fuller-Smith — Local AI, Self-Hosted"
+title = "Daniel Fuller-Smith — Local AI, Self-Hosted"
 theme = "PaperMod"
 
 # Pagination
@@ -11,7 +11,7 @@ enableGitInfo = true
 
 [params]
   description = "Self-hosting AI on your own hardware: reviews, guides, and the build log for the Sovereign AI Lab."
-  author = "Daniel"
+  author = "Daniel Fuller-Smith"
   defaultTheme = "auto"        # auto | light | dark
   ShowReadingTime = true
   ShowShareButtons = false
@@ -24,7 +24,7 @@ enableGitInfo = true
   hidemeta = false
 
   [params.homeInfoParams]
-    Title = "Fuller-Smith"
+    Title = "Daniel Fuller-Smith"
     Content = "Guides and hardware breakdowns for running your own AI, locally. No cloud, no subscriptions, no data leaving your machine."
 
 [[menu.main]]
