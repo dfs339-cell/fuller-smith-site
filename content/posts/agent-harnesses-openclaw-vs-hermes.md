@@ -6,8 +6,6 @@ description: "The layer above your inference server — what actually talks to a
 tags: ["agents", "openclaw", "hermes", "local-ai"]
 series: ["Local AI Reference Guides"]
 ---
-(front matter)
----
 
 The layer above your inference server — what actually talks to a local model, and what it takes to trust it.
 
