@@ -172,7 +172,7 @@ None of that replaces the research in this guide. It's what you do with the rese
 - **High-end ($3,000+):** DGX Spark if you're CUDA-dependent and want a preconfigured box; Mac Studio M3 Ultra if you want the most unified memory Apple currently sells and can live with 96GB.
 - **Beyond a single box:** clustering two or more Strix Halo or DGX Spark units, once you're comfortable with Linux and want to run something that genuinely doesn't fit anywhere else — including, as AMD has now demonstrated, a full trillion-parameter model on consumer hardware.
 
-*[Refresh pricing and specs quarterly — this market is moving unusually fast in 2026. See the Maintenance Schedule tab in the content calendar.]*
+*this market is moving unusually fast in 2026. Will try to ensure I update this cpntent periodically.*
 
 ## The Bottom Line
 
