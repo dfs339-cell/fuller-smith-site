@@ -1,7 +1,7 @@
 ---
 title: "Agent Harnesses in 2026: OpenClaw vs. Hermes, and What Actually Talks to Your Local Model"
 date: 2026-07-15
-draft: true
+draft: false
 description: "The layer above your inference server — what an agent harness actually is, how OpenClaw and Hermes differ, and how to point either one at a model you host yourself."
 tags: ["agents", "openclaw", "hermes", "local-ai"]
 series: ["Local AI Reference Guides"]
