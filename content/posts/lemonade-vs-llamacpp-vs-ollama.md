@@ -7,6 +7,10 @@ tags: ["inference", "lemonade", "ollama", "llama-cpp"]
 series: ["Local AI Reference Guides"]
 ---
 
+The engine you pick determines everything downstream — and it matters more than any single benchmark.
+
+<!--more-->
+
 ## The Decision Nobody Tells You Matters This Much
 
 Article 1 covered the hardware. Article 2 covered which models fit on it. This one covers the piece that quietly decides how much of your evening you spend troubleshooting rather than actually using the thing: the inference server sitting between your hardware and every tool that talks to it.
