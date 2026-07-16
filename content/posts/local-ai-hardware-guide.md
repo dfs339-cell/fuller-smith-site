@@ -7,6 +7,10 @@ tags: ["hardware", "buying-guide", "gpu", "apple-silicon"]
 series: ["Local AI Reference Guides"]
 ---
 
+AI didn't start with ChatGPT — and what's actually changed isn't the intelligence, it's that you can finally own a piece of it.
+
+<!--more-->
+
 ## A Brief History: AI Is Not New
 
 Everyone talks about AI like it arrived in November 2022. It didn't. Alan Turing was asking whether machines could think in 1950, and by the time most of us were born, AI had already had two full boom-and-bust cycles. IBM's Deep Blue beat a reigning world chess champion in 1997. IBM's Watson beat two Jeopardy champions in 2011, on live television, answering natural-language trivia clues. Neither system ran on anything you'd recognize as a modern GPU, and neither used anything like the deep learning techniques behind today's models.
