@@ -2,7 +2,7 @@
 title: "AI Is Not New. Owning It Is."
 date: 2026-07-14
 draft: false
-description: "A buyer's guide to local AI hardware, from the NPU already in your laptop to a clustered rig of dedicated boxes — and why 2026's memory shortage makes this decision harder than it should be."
+description: "AI didn't start with ChatGPT — and what's actually changed isn't the intelligence, it's that you can finally own a piece of it."
 tags: ["hardware", "buying-guide", "gpu", "apple-silicon"]
 series: ["Local AI Reference Guides"]
 ---
