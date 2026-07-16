@@ -2,7 +2,7 @@
 title: "Lemonade vs. llama.cpp vs. Ollama: Choosing Your Local Inference Server"
 date: 2026-07-15
 draft: false
-description: "The engine you pick determines everything downstream — and it matters more than any single benchmark.
+description: "The engine you pick determines everything downstream — and it matters more than any single benchmark."
 tags: ["inference", "lemonade", "ollama", "llama-cpp"]
 series: ["Local AI Reference Guides"]
 ---
