@@ -7,6 +7,10 @@ tags: ["models", "vram", "quantization", "buying-guide"]
 series: ["Local AI Reference Guides"]
 ---
 
+Stop guessing whether a model will fit — here's the actual math, before you download a single byte.
+
+<!--more-->
+
 ## The Download That Doesn't Fit
 
 Everyone who's tried local AI has done this at least once: found a model that sounds perfect on paper, downloaded 40GB of weights over an evening, and watched it fail to load. Not slowly — instantly. Out of memory, no partial credit. Article 1 covered why VRAM matters more than clock speed. This one is the actual arithmetic: how to know what fits before you download a single byte, what quantization actually costs you in quality, and — because the market's moved fast enough that this is now a genuine question — when buying hardware to self-host stops making financial sense at all.
