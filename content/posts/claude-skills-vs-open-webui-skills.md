@@ -1,7 +1,7 @@
 ---
 title: "Claude Skills vs. Open WebUI Skills: What 'Skills' Actually Means Across the Stack"
 date: 2026-07-18
-draft: true
+draft: false
 description: "Three different products call this 'Skills.' They're not the same thing — and knowing the difference matters if you're running Claude Code alongside Open WebUI, the way this whole site does."
 tags: ["skills", "claude", "open-webui", "local-ai"]
 series: ["Local AI Reference Guides"]
