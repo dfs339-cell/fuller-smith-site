@@ -1,7 +1,7 @@
 ---
 title: "The Best LLMs to Run on Home Hardware — July 2026 Snapshot"
 date: 2026-07-17
-draft: true
+draft: false
 description: "A tier-by-tier snapshot of which open-weight models are actually worth running on the hardware you have, right now — not a permanent ranking, a dated one."
 tags: ["models", "buying-guide", "vram"]
 series: ["Local AI Reference Guides"]
