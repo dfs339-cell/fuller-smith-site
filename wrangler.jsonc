@@ -1,5 +1,5 @@
 {
-  "name": "fuller-smith-co-uk",
+  "name": "fuller-smith-site",
   "compatibility_date": "2026-07-16",
   "build": {
     "command": "hugo --gc --minify"
