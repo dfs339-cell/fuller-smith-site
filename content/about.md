@@ -1,6 +1,7 @@
 ---
 title: "About"
 draft: false
+---
 
 ## Why This Site Exists
 I started out as a copier engineer — three years in the field with my hands actually inside the machines, before moving into training rooms teaching print theory and colour copier courses. From there it was two decades in enterprise tech sales: servers, telecoms, and now IT and cybersecurity. That combination matters more to this site than it might seem — it means I've sat through more vendor pitches than I care to count, and I've learned to tell the difference between genuine capability and a good spec sheet.
