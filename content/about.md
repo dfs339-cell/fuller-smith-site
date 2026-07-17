@@ -19,4 +19,4 @@ I've spent a career watching technology get oversold — VoIP and IP telephony w
 Outside of this project, I've coached grassroots football since 2008 — a qualified coach, referee, and club volunteer, for reasons that have nothing to do with technology and everything to do with enjoying being useful to people in a completely different way than a day job allows.
 
 If you want to see the whole build — not just the articles, but the actual configuration, the model aliasing, the mistakes worth avoiding — that's what the companion book covers in full.
-Questions, corrections, or just want to talk local AI: reach out via LinkedIn.
+Questions, corrections, or just want to talk local AI: reach out via https://www.linkedin.com/in/daniel-fuller-smith-4813b75/ 
