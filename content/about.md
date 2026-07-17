@@ -1,6 +1,13 @@
 ---
 title: "About"
-draft: true
----
-
-<!-- A couple of paragraphs: who you are, why you built the Sovereign AI Lab, what this site covers. -->
+draft: falseWhy This Site Exists
+I started out as a copier engineer — three years in the field with my hands actually inside the machines, before moving into training rooms teaching print theory and colour copier courses. From there it was two decades in enterprise tech sales: servers, telecoms, and now IT and cybersecurity. That combination matters more to this site than it might seem — it means I've sat through more vendor pitches than I care to count, and I've learned to tell the difference between genuine capability and a good spec sheet.
+A while back I installed Ollama on a home PC, mostly out of curiosity. It was slow, unremarkable, nothing like the polished cloud AI experience I was used to from work. But it solved something I hadn't fully articulated until I saw it solved: I could work with sensitive material and ask real questions without any of it leaving my machine. That mattered more than I expected. From there it escalated — an NPU-equipped machine changed things again, and curiosity turned into something more deliberate. I started calling the result my Sovereign AI Lab.
+This site is where I write about that build honestly — the hardware, the models, the software stack, and just as much what broke and what I'd do differently. I'd rather undersell what self-hosting gets you and have it exceed expectations than the other way round.
+What You'll Find Here
+Practical, researched guides on running genuinely capable AI on your own hardware — no cloud dependency, no subscription pricing you don't control. Current pieces cover hardware buying decisions, sizing models to your VRAM, choosing an inference engine, and the agent tools that sit on top of a local model. More is coming as the landscape moves, which in this space is often.
+I've spent a career watching technology get oversold — VoIP and IP telephony were "the future" at the turn of the century too, and it took the better part of a decade before the average customer actually saw the benefit that was promised on day one. AI right now feels familiar. Genuinely powerful, and genuinely oversold in places — both can be true. I'd rather you finish reading something here having learned what actually works than having been sold something.
+A Bit More About Me
+Outside of this project, I've coached grassroots football since 2008 — a qualified coach, referee, and club volunteer, for reasons that have nothing to do with technology and everything to do with enjoying being useful to people in a completely different way than a day job allows.
+If you want to see the whole build — not just the articles, but the actual configuration, the model aliasing, the mistakes worth avoiding — that's what the companion book covers in full.
+Questions, corrections, or just want to talk local AI: reach out via LinkedIn.
