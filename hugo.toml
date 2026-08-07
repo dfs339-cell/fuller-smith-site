@@ -9,6 +9,11 @@ pagination.pagerSize = 10
 # Enable Git info (last-modified dates on posts, optional)
 enableGitInfo = true
 
+# Publish posts even if their timestamp is technically still "in the future"
+# relative to build time — needed since scrape-pipeline posts get staggered
+# timestamps within the same day.
+buildFuture = true
+
 [params]
   description = "Self-hosting AI on your own hardware: reviews, guides, and the build log for the Sovereign AI Lab."
   author = "Daniel Fuller-Smith"
@@ -22,6 +27,11 @@ enableGitInfo = true
   TocOpen = false
   disableSpecial1stPost = false
   hidemeta = false
+
+  # Restrict the homepage feed to News and Articles — without this, PaperMod
+  # picks whichever section has the most pages, which became the Book once
+  # Volume 1 was added.
+  mainSections = ["news", "posts"]
 
   [params.homeInfoParams]
     Title = "Daniel Fuller-Smith"
