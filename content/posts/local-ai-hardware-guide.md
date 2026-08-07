@@ -1,11 +1,15 @@
 ---
 title: "AI Is Not New. Owning It Is."
 date: 2026-07-14
-draft: true
-description: "A buyer's guide to local AI hardware, from the NPU already in your laptop to a clustered rig of dedicated boxes — and why 2026's memory shortage makes this decision harder than it should be."
+draft: false
+description: "AI didn't start with ChatGPT — and what's actually changed isn't the intelligence, it's that you can finally own a piece of it."
 tags: ["hardware", "buying-guide", "gpu", "apple-silicon"]
 series: ["Local AI Reference Guides"]
 ---
+
+AI didn't start with ChatGPT — and what's actually changed isn't the intelligence, it's that you can finally own a piece of it.
+
+<!--more-->
 
 ## A Brief History: AI Is Not New
 
@@ -139,7 +143,7 @@ Apple has repeatedly cut memory configurations across the Mac mini and Mac Studi
 | Mac Studio M3 Ultra | 96GB | $3,999–5,499 | ~$42–57 |
 | Jetson Orin Nano Super | 8GB | $249 | ~$31 |
 
-*Prices move fast in this market — treat this table as a mid-2026 snapshot, not a permanent reference. [Update this table each quarter — see the maintenance schedule.]*
+*Prices move fast in this market — treat this table as a mid-2026 snapshot, not a permanent reference.*
 
 The standout on pure $/GB right now is still the used RTX 3090 and the entry-tier Strix Halo mini PC — both, for different reasons, comparatively insulated from the worst of the 2026 shortage.
 
@@ -168,7 +172,7 @@ None of that replaces the research in this guide. It's what you do with the rese
 - **High-end ($3,000+):** DGX Spark if you're CUDA-dependent and want a preconfigured box; Mac Studio M3 Ultra if you want the most unified memory Apple currently sells and can live with 96GB.
 - **Beyond a single box:** clustering two or more Strix Halo or DGX Spark units, once you're comfortable with Linux and want to run something that genuinely doesn't fit anywhere else — including, as AMD has now demonstrated, a full trillion-parameter model on consumer hardware.
 
-*[Refresh pricing and specs quarterly — this market is moving unusually fast in 2026. See the Maintenance Schedule tab in the content calendar.]*
+*this market is moving unusually fast in 2026. Will try to ensure I update this cpntent periodically.*
 
 ## The Bottom Line
 

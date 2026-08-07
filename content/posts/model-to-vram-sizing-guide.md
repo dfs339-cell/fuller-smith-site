@@ -1,11 +1,15 @@
 ---
 title: "Matching LLMs to Your VRAM: A Practical Sizing Guide"
 date: 2026-07-15
-draft: true
-description: "Stop guessing whether a model will fit — the actual math, real recommendations per VRAM tier, and when self-hosting stops making financial sense at all."
+draft: false
+description: "Stop guessing whether a model will fit — here's the actual math, before you download a single byte."
 tags: ["models", "vram", "quantization", "buying-guide"]
 series: ["Local AI Reference Guides"]
 ---
+
+Stop guessing whether a model will fit — here's the actual math, before you download a single byte.
+
+<!--more-->
 
 ## The Download That Doesn't Fit
 
