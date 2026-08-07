@@ -2,4 +2,4 @@
 title: "News"
 ---
 
-Updates, announcements, and shorter posts - separate from the longer reference guides in Articles.
+Short posts pulled from the overnight scrape pipeline - YouTube, Reddit, arXiv, GitHub trending, and web search digests, surfaced as they land rather than folded into a full Article.
