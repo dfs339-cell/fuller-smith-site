@@ -34,6 +34,18 @@ enableGitInfo = true
   weight = 10
 
 [[menu.main]]
+  identifier = "book"
+  name = "Book"
+  url = "/book/"
+  weight = 15
+
+[[menu.main]]
+  identifier = "news"
+  name = "News"
+  url = "/news/"
+  weight = 17
+
+[[menu.main]]
   identifier = "about"
   name = "About"
   url = "/about/"
